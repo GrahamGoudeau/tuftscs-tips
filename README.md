@@ -213,6 +213,9 @@ Submit a Pull Request. Classes should have the following sections, in order:
 * Learn effective Googling strategies.  For example, googling `site:stackoverflow.com sscanf` will limit your search results to Stack Overflow.
 * Look for interesting questions on Stack Overflow's "Related" and "Hot Network Questions" sidebars.  I have learned a lot of interesting pieces of C trivia by following those links.
 * Write your own assembler for UMASM (the assembly language you write in during the last assignment)
+* I once had somebody ask me an amazing question when I TA'd for COMP 15:
+  * "We learned in lecture that we use a 'class' to store and model state and behavior.  I understand how we store state, because that's just data that we can store in memory.  But how does a class store behavior?"
+  * Spend some time thinking about the answer to this question.  The answer reveals a lot of deeper, subtle points about the relationship between code and data.
 * Explore other low-level, systems level languages such as Rust.  A good exercise is to implement the Universal Machine in Rust.
 * Since the C standard library is so small, implement various data structures or other tools that would be useful to have in a language:
   * Implement various collections (hash tables, sets, etc.)
